@@ -19,3 +19,6 @@ scanf("%d", &choice);
 	 case 3:
             printf("You chose ECE\n");
             break;
+	 case 4:
+            printf("You chose Mechanical\n");
+            break;
