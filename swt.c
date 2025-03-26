@@ -21,4 +21,5 @@ scanf("%d", &choice);
             break;
 	 case 4:
             printf("You chose Mechanical\n");
-            break;
+            edited case 4
+	    break;
