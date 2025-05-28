@@ -1,4 +1,4 @@
-i#include<stdio.h>
+#include<stdio.h>
 int main()
 	int choice;
     printf("Choose a department:\n");
